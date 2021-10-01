@@ -29,30 +29,33 @@ Using Python and Pandas functions, the "tripduration" column was converted from 
 
 Using Tableau, the following visualizations were created:
 
-Checkout Times Length for All Users - A line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
+#### Checkout Times Length for All Users 
 
-![Filename.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/filename.png)
+- A line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
 
+![Checkout_times_per_users.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Checkout_times_per_users.png)
 
+#### Checkout Times by Gender 
 
-Checkout Times by Gender - A line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
+- A line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
 
-![Filename.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/filename.png)
+![Checkout_times_by_gender.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Checkout_times_by_gender.png)
 
+#### Trips by Weekday for Each Hour 
 
+- A heatmap is created showing the number of bike trips for each hour of each day of the week.
 
-Trips by Weekday for Each Hour - A heatmap is created showing the number of bike trips for each hour of each day of the week.
+![Trips_by_weekday_for_each_hour.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Trips_by_weekday_for_each_hour.png)
 
-![Filename.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/filename.png)
+#### Trips by Gender (Weekday per Hour) 
 
+- A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
 
+![Trips_by_gender_weekday_per_hour.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Trips_by_gender_weekday_per_hour.png)
 
-Trips by Gender (Weekday per Hour) - A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
+#### User Trips by Gender by Weekday 
 
-![Filename.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/filename.png)
-
-
-User Trips by Gender by Weekday - A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user AND gender.
+- A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user AND gender.
 
 ![Filename.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/filename.png)
 
@@ -62,7 +65,7 @@ User Trips by Gender by Weekday - A heatmap is created showing the number of bik
 
 
 
-#### Module 14 Tasks
+## Other Visualizations for Decision-Making
 
 How Many Trips Were Recorded During the Month of August?
 
