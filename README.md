@@ -1,27 +1,31 @@
 # Bikesharing
 
 ## Overview
-Using Tableau to visualize bike-sharing data.
+A Bike Trip Analysis Using Tableau to Visualize Bike-Sharing Data.
 
 ### Purpose
 To present a business proposal to fund a bike-sharing company in DeMoine, Iowa using New York City bike-sharing data. 
 
-After learning how to import, style, and portray data accurately, I will ceate worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
-
-By the end of this module, you will be able to:
-
-- Import data into Tableau.
-- Create and style worksheets, dashboards, and stories in Tableau.
-- Use Tableau worksheets to display data in a professional way.
-- Portray data accurately using Tableau dashboards.
-
 ### Resources
 
 #### Data Files:
-August 2019 City Bike data, because there is likely more traffic during the summer months.
+August 2019 City Bike data.
 
 Software:
-Tableau Public 2021.3 (ableau Public allows you to create visualizations that are easy to read and understand. Everything you do with Tableau Public occurs on your computer.)
+Tableau Public 2021.3 
+
+## Deliverable 1: Change Trip Duration to a Datetime Format
+
+Using Python and Pandas functions, the "tripduration" column was converted from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00) in our dataframe.
+
+
+## Deliverable 2: Create Visualizations for the Trip Analysis
+
+
+## Deliverable 3: Create a Story and Report for the Final Presentation
+
+
+
 
 ## Results
 
