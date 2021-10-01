@@ -20,10 +20,41 @@ Using Python and Pandas functions, the "tripduration" column was converted from 
 
 ![Trip_Duration_Conversion.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Trip_Duration_Conversion.png)
 
+![New_datatypes.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/New_datatypes.png)
+
 ![Export_dataframe.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Export_dataframe.png)
 
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
+
+Using Tableau, the following visualizations were created:
+
+Checkout Times Length for All Users - A line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
+
+![Filename.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/filename.png)
+
+
+
+Checkout Times by Gender - A line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
+
+![Filename.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/filename.png)
+
+
+
+Trips by Weekday for Each Hour - A heatmap is created showing the number of bike trips for each hour of each day of the week.
+
+![Filename.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/filename.png)
+
+
+
+Trips by Gender (Weekday per Hour) - A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
+
+![Filename.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/filename.png)
+
+
+User Trips by Gender by Weekday - A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user AND gender.
+
+![Filename.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/filename.png)
 
 
 ## Deliverable 3: Create a Story and Report for the Final Presentation
@@ -31,7 +62,7 @@ Using Python and Pandas functions, the "tripduration" column was converted from 
 
 
 
-## Results
+#### Module 14 Tasks
 
 How Many Trips Were Recorded During the Month of August?
 
@@ -86,5 +117,3 @@ Which Bikes Are Most Likely Due for Repair? The following treemap gives an idea 
 How Variable Is Bike Utilization? The following packed bubbles visualization shows how long rides are and if there are bikes that need more attention than others. 
 
 ![Bike_Utilization.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Bike_Utilization.png)
-
-## Summary
