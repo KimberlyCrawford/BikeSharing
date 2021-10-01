@@ -18,6 +18,10 @@ Tableau Public 2021.3
 
 Using Python and Pandas functions, the "tripduration" column was converted from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00) in our dataframe.
 
+![Trip_Duration_Conversion.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Trip_Duration_Conversion.png)
+
+![Export_dataframe.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Export_dataframe.png)
+
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 
