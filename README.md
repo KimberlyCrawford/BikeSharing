@@ -57,7 +57,7 @@ Using Tableau, the following visualizations were created:
 
 - A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user AND gender.
 
-![Filename.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/filename.png)
+![User_trips_by_gender_by_weekday.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/User_trips_by_gender_by_weekday.png)
 
 
 ## Deliverable 3: Create a Story and Report for the Final Presentation
