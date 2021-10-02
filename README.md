@@ -4,15 +4,11 @@
 A Bike Trip Analysis Using Tableau to Visualize Bike-Sharing Data.
 
 ### Purpose
-To present a business proposal to fund a bike-sharing company in DeMoine, Iowa using New York City bike-sharing data. 
+A business proposal to obtain funding for a bike-sharing company in DeMoine, Iowa using New York City bike-sharing data. 
 
 ### Resources
 
-#### Data Files:
-August 2019 City Bike data.
-
-Software:
-Tableau Public 2021.3 
+#### Data File: August 2019 City Bike and Software: Tableau Public 2021.3, Python 3.7.10. and Jupyter Notebook 6.3.0 
 
 ## Deliverable 1: Change Trip Duration to a Datetime Format
 
@@ -43,27 +39,53 @@ Using Tableau, the following visualizations were created:
 
 #### Trips by Weekday for Each Hour 
 
-- A heatmap is created showing the number of bike trips for each hour of each day of the week.
+- A heatmap showing the number of bike trips for each hour of each day of the week.
 
 ![Trips_by_weekday_for_each_hour.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Trips_by_weekday_for_each_hour.png)
 
 #### Trips by Gender (Weekday per Hour) 
 
-- A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
+- A heatmap showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
 
 ![Trips_by_gender_weekday_per_hour.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Trips_by_gender_weekday_per_hour.png)
 
 #### User Trips by Gender by Weekday 
 
-- A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user AND gender.
+- A heatmap showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user AND gender.
 
 ![User_trips_by_gender_by_weekday.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/User_trips_by_gender_by_weekday.png)
 
 
 ## Deliverable 3: Create a Story and Report for the Final Presentation
 
+[Story](https://public.tableau.com/views/NYCCitibikeAnalysis_16331442011330/KeyOutcomesoftheNYCCitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
+
+New York City Statistics
+![NYC.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/NYC.png)
+
+Des Moines Statistics
+![Des_Moines.png](https://github.com/KimberlyCrawford/Bikesharing/blob/main/Resources/Des-Moines.png)
+
+Read more: https://www.city-data.com. 
+
+# Summary:
+
+There is a high-level summary of the results and 
+
+- Two additional visualizations suggested for future analysis:
+
+Data Visualization Process
+When creating Tableau stories, or data visualizations in general, there's a general process that should be followed. You can use this process for most visualizations you'll create.
+
+Select your questions. During this step, you'll consider which results you want to share with your audience. What do they want to see? How can we use that information to make their decision making process easier?
+Execute independent research. You'll need to look at other relevant pieces of information to build a bigger picture. Search other sources to find information that will make your visualization more powerful.
+Craft your Tableau story. This is when you create your story, primarily from worksheets and other visuals, with descriptions for each of them.
+Create a written analysis. The written analysis is intended to provide additional insight into what we're trying to convey to our audience. This is a good place to add extra detail so that everyone can get on the same page.
+After you've practiced creating Tableau stories, let's create a story for our investors. The purpose of this story is to help them determine whether they should invest in a bike-sharing program in Des Moines.
+
+[Story](https://public.tableau.com/views/NYCCitibikeAnalysis_16331442011330/KeyOutcomesoftheNYCCitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Other Visualizations for Decision-Making
 
