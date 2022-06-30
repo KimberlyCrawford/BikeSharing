@@ -160,3 +160,4 @@ Craft your Tableau story. This is when you create your story, primarily from wor
 Create a written analysis. The written analysis is intended to provide additional insight into what we're trying to convey to our audience. This is a good place to add extra detail so that everyone can get on the same page.
 After you've practiced creating Tableau stories, let's create a story for our investors. The purpose of this story is to help them determine whether they should invest in a bike-sharing program in Des Moines.
 
+#### Module 14, Data Analysis & Visualization Certificate Program, UT Austin McCombs School of Business, 2021.
